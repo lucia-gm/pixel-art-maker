@@ -1,7 +1,7 @@
 # Pixel Art Maker
 This project is about building a single-page web app that allows users to draw pixel art on a customizable canvas. It is part of the Udacity program for the Front-End Nanodegree.
 
-[View online demo](http://htmlpreview.github.io/?https://github.com/lucia-gm/pixel-art-maker/blob/master/index.html)
+[View online demo](https://lucia-gm.github.io/pixel-art-maker/)
 
 ![Preview](img/pixelart.png)
 
