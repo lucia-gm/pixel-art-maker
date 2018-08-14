@@ -6,6 +6,17 @@ This project is about building a single-page web app that allows users to draw p
 ![Preview](img/pixelart.png)
 
 
+## Project Overview
+The HTML is provided by Udacity, I have used jQuery to implement the following functionalities:
+- Draw a table.
+- Paint the table.
+- Erase the paint.
+
+
+## Credits
+The starter code is from [Udacity](https://github.com/udacity/project-pixel-art-maker-starter).
+
+
 ## License
 MIT License
 
