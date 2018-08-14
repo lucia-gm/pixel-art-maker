@@ -1,5 +1,5 @@
 # Pixel Art Maker
-This project is about building a single-page web app that allows users to draw pixel art on a customizable canvas. It is part of the Udacity program for the Front-End Nanodegree.
+This project is about building a single-page web app that allows users to draw pixel art on a customizable canvas. 
 
 [View online demo](https://lucia-gm.github.io/pixel-art-maker/)
 
@@ -7,14 +7,10 @@ This project is about building a single-page web app that allows users to draw p
 
 
 ## Project Overview
-The HTML is provided by Udacity, I have used jQuery to implement the following functionalities:
+The project is part of the Udacity Front-End Nanodegree and [here](https://github.com/udacity/project-pixel-art-maker-starter) is the starter code. The HTML is provided by Udacity, I have used jQuery to implement the following functionalities:
 - Draw a table.
 - Paint the table.
 - Erase the paint.
-
-
-## Credits
-The starter code is from [Udacity](https://github.com/udacity/project-pixel-art-maker-starter).
 
 
 ## License
